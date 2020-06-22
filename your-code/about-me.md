@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ramón Navarro Barceló
 
 * L'ametlla del vallès
@@ -15,3 +16,6 @@
 * I would like to start my own company
 * Work in a place where I feel motivated 
 
+=======
+Ramon Navarro
+>>>>>>> 23065d0397c2185db41a7b0dcb0690f9f78cefbe
